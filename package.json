@@ -1,5 +1,5 @@
 {
-  "name": "npm-hello-world",
+  "name": "@rice-bowl/npm-hello-world",
   "version": "1.0.0",
   "description": "Hello world package",
   "main": "index.js",
