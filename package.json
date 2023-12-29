@@ -1,0 +1,23 @@
+{
+  "name": "npm-hello-world",
+  "version": "1.0.0",
+  "description": "Hello world package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A1exander-liU/npm-helloworld.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Alexander Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A1exander-liU/npm-helloworld/issues"
+  },
+  "homepage": "https://github.com/A1exander-liU/npm-helloworld#readme"
+}
